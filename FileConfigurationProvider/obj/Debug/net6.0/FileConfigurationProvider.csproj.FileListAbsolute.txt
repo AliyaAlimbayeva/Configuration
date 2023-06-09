@@ -1,0 +1,30 @@
+D:\My examples\Task 5\FileConfigurationProvider\bin\Debug\net6.0\FileConfigurationProvider.deps.json
+D:\My examples\Task 5\FileConfigurationProvider\bin\Debug\net6.0\FileConfigurationProvider.dll
+D:\My examples\Task 5\FileConfigurationProvider\bin\Debug\net6.0\FileConfigurationProvider.pdb
+D:\My examples\Task 5\FileConfigurationProvider\obj\Debug\net6.0\FileConfigurationProvider.csproj.AssemblyReference.cache
+D:\My examples\Task 5\FileConfigurationProvider\obj\Debug\net6.0\FileConfigurationProvider.GeneratedMSBuildEditorConfig.editorconfig
+D:\My examples\Task 5\FileConfigurationProvider\obj\Debug\net6.0\FileConfigurationProvider.AssemblyInfoInputs.cache
+D:\My examples\Task 5\FileConfigurationProvider\obj\Debug\net6.0\FileConfigurationProvider.AssemblyInfo.cs
+D:\My examples\Task 5\FileConfigurationProvider\obj\Debug\net6.0\FileConfigurationProvider.csproj.CoreCompileInputs.cache
+D:\My examples\Task 5\FileConfigurationProvider\obj\Debug\net6.0\FileConfigurationProvider.dll
+D:\My examples\Task 5\FileConfigurationProvider\obj\Debug\net6.0\refint\FileConfigurationProvider.dll
+D:\My examples\Task 5\FileConfigurationProvider\obj\Debug\net6.0\FileConfigurationProvider.pdb
+D:\My examples\Task 5\FileConfigurationProvider\obj\Debug\net6.0\ref\FileConfigurationProvider.dll
+D:\My examples\Task 5\FileConfigurationProvider\obj\Debug\net6.0\FileConfigurationProvider.csproj.CopyComplete
+D:\My examples\Task 5\FileConfigurationProvider\bin\Debug\net6.0\ConfigurationProvider.dll
+D:\My examples\Task 5\FileConfigurationProvider\bin\Debug\net6.0\ConfigurationProvider.pdb
+D:\Course\5 Task\FileConfigurationProvider\bin\Debug\net6.0\FileConfigurationProvider.deps.json
+D:\Course\5 Task\FileConfigurationProvider\bin\Debug\net6.0\FileConfigurationProvider.dll
+D:\Course\5 Task\FileConfigurationProvider\bin\Debug\net6.0\FileConfigurationProvider.pdb
+D:\Course\5 Task\FileConfigurationProvider\bin\Debug\net6.0\ConfigurationProvider.dll
+D:\Course\5 Task\FileConfigurationProvider\bin\Debug\net6.0\ConfigurationProvider.pdb
+D:\Course\5 Task\FileConfigurationProvider\obj\Debug\net6.0\FileConfigurationProvider.csproj.AssemblyReference.cache
+D:\Course\5 Task\FileConfigurationProvider\obj\Debug\net6.0\FileConfigurationProvider.GeneratedMSBuildEditorConfig.editorconfig
+D:\Course\5 Task\FileConfigurationProvider\obj\Debug\net6.0\FileConfigurationProvider.AssemblyInfoInputs.cache
+D:\Course\5 Task\FileConfigurationProvider\obj\Debug\net6.0\FileConfigurationProvider.AssemblyInfo.cs
+D:\Course\5 Task\FileConfigurationProvider\obj\Debug\net6.0\FileConfigurationProvider.csproj.CoreCompileInputs.cache
+D:\Course\5 Task\FileConfigurationProvider\obj\Debug\net6.0\FileConfigurationProvider.csproj.CopyComplete
+D:\Course\5 Task\FileConfigurationProvider\obj\Debug\net6.0\FileConfigurationProvider.dll
+D:\Course\5 Task\FileConfigurationProvider\obj\Debug\net6.0\refint\FileConfigurationProvider.dll
+D:\Course\5 Task\FileConfigurationProvider\obj\Debug\net6.0\FileConfigurationProvider.pdb
+D:\Course\5 Task\FileConfigurationProvider\obj\Debug\net6.0\ref\FileConfigurationProvider.dll

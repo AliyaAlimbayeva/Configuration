@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "FileConfigurationProvider/1.0.0": {
+        "dependencies": {
+          "ConfigurationProvider": "1.0.0"
+        },
+        "runtime": {
+          "FileConfigurationProvider.dll": {}
+        }
+      },
+      "ConfigurationProvider/1.0.0": {
+        "runtime": {
+          "ConfigurationProvider.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FileConfigurationProvider/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ConfigurationProvider/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

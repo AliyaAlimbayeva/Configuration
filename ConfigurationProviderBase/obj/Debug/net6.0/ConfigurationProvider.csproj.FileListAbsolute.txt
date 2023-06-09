@@ -1,0 +1,24 @@
+D:\My examples\Task 5\ConfigurationProviderBase\bin\Debug\net6.0\ConfigurationProvider.deps.json
+D:\My examples\Task 5\ConfigurationProviderBase\bin\Debug\net6.0\ConfigurationProvider.dll
+D:\My examples\Task 5\ConfigurationProviderBase\bin\Debug\net6.0\ConfigurationProvider.pdb
+D:\My examples\Task 5\ConfigurationProviderBase\obj\Debug\net6.0\ConfigurationProvider.csproj.AssemblyReference.cache
+D:\My examples\Task 5\ConfigurationProviderBase\obj\Debug\net6.0\ConfigurationProvider.GeneratedMSBuildEditorConfig.editorconfig
+D:\My examples\Task 5\ConfigurationProviderBase\obj\Debug\net6.0\ConfigurationProvider.AssemblyInfoInputs.cache
+D:\My examples\Task 5\ConfigurationProviderBase\obj\Debug\net6.0\ConfigurationProvider.AssemblyInfo.cs
+D:\My examples\Task 5\ConfigurationProviderBase\obj\Debug\net6.0\ConfigurationProvider.csproj.CoreCompileInputs.cache
+D:\My examples\Task 5\ConfigurationProviderBase\obj\Debug\net6.0\ConfigurationProvider.dll
+D:\My examples\Task 5\ConfigurationProviderBase\obj\Debug\net6.0\refint\ConfigurationProvider.dll
+D:\My examples\Task 5\ConfigurationProviderBase\obj\Debug\net6.0\ConfigurationProvider.pdb
+D:\My examples\Task 5\ConfigurationProviderBase\obj\Debug\net6.0\ref\ConfigurationProvider.dll
+D:\Course\5 Task\ConfigurationProviderBase\bin\Debug\net6.0\ConfigurationProvider.deps.json
+D:\Course\5 Task\ConfigurationProviderBase\bin\Debug\net6.0\ConfigurationProvider.dll
+D:\Course\5 Task\ConfigurationProviderBase\bin\Debug\net6.0\ConfigurationProvider.pdb
+D:\Course\5 Task\ConfigurationProviderBase\obj\Debug\net6.0\ConfigurationProvider.csproj.AssemblyReference.cache
+D:\Course\5 Task\ConfigurationProviderBase\obj\Debug\net6.0\ConfigurationProvider.GeneratedMSBuildEditorConfig.editorconfig
+D:\Course\5 Task\ConfigurationProviderBase\obj\Debug\net6.0\ConfigurationProvider.AssemblyInfoInputs.cache
+D:\Course\5 Task\ConfigurationProviderBase\obj\Debug\net6.0\ConfigurationProvider.AssemblyInfo.cs
+D:\Course\5 Task\ConfigurationProviderBase\obj\Debug\net6.0\ConfigurationProvider.csproj.CoreCompileInputs.cache
+D:\Course\5 Task\ConfigurationProviderBase\obj\Debug\net6.0\ConfigurationProvider.dll
+D:\Course\5 Task\ConfigurationProviderBase\obj\Debug\net6.0\refint\ConfigurationProvider.dll
+D:\Course\5 Task\ConfigurationProviderBase\obj\Debug\net6.0\ConfigurationProvider.pdb
+D:\Course\5 Task\ConfigurationProviderBase\obj\Debug\net6.0\ref\ConfigurationProvider.dll

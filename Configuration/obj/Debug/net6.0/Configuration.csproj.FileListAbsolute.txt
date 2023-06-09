@@ -1,0 +1,64 @@
+D:\My examples\Task 5\Configuration\bin\Debug\net6.0\Configuration.exe
+D:\My examples\Task 5\Configuration\bin\Debug\net6.0\Configuration.deps.json
+D:\My examples\Task 5\Configuration\bin\Debug\net6.0\Configuration.runtimeconfig.json
+D:\My examples\Task 5\Configuration\bin\Debug\net6.0\Configuration.dll
+D:\My examples\Task 5\Configuration\bin\Debug\net6.0\Configuration.pdb
+D:\My examples\Task 5\Configuration\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\My examples\Task 5\Configuration\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\My examples\Task 5\Configuration\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\My examples\Task 5\Configuration\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\My examples\Task 5\Configuration\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\My examples\Task 5\Configuration\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\My examples\Task 5\Configuration\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\My examples\Task 5\Configuration\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\My examples\Task 5\Configuration\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\My examples\Task 5\Configuration\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\My examples\Task 5\Configuration\obj\Debug\net6.0\Configuration.csproj.AssemblyReference.cache
+D:\My examples\Task 5\Configuration\obj\Debug\net6.0\Configuration.GeneratedMSBuildEditorConfig.editorconfig
+D:\My examples\Task 5\Configuration\obj\Debug\net6.0\Configuration.AssemblyInfoInputs.cache
+D:\My examples\Task 5\Configuration\obj\Debug\net6.0\Configuration.AssemblyInfo.cs
+D:\My examples\Task 5\Configuration\obj\Debug\net6.0\Configuration.csproj.CoreCompileInputs.cache
+D:\My examples\Task 5\Configuration\obj\Debug\net6.0\Configuration.csproj.CopyComplete
+D:\My examples\Task 5\Configuration\obj\Debug\net6.0\Configuration.dll
+D:\My examples\Task 5\Configuration\obj\Debug\net6.0\refint\Configuration.dll
+D:\My examples\Task 5\Configuration\obj\Debug\net6.0\Configuration.pdb
+D:\My examples\Task 5\Configuration\obj\Debug\net6.0\Configuration.genruntimeconfig.cache
+D:\My examples\Task 5\Configuration\obj\Debug\net6.0\ref\Configuration.dll
+D:\My examples\Task 5\Configuration\bin\Debug\net6.0\ConfigurationManagerConfigurationProvider.dll
+D:\My examples\Task 5\Configuration\bin\Debug\net6.0\FileConfigurationProvider.dll
+D:\My examples\Task 5\Configuration\bin\Debug\net6.0\ConfigurationManagerConfigurationProvider.pdb
+D:\My examples\Task 5\Configuration\bin\Debug\net6.0\FileConfigurationProvider.pdb
+D:\My examples\Task 5\Configuration\bin\Debug\net6.0\ConfigurationProvider.dll
+D:\My examples\Task 5\Configuration\bin\Debug\net6.0\ConfigurationProvider.pdb
+D:\Course\5 Task\Configuration\bin\Debug\net6.0\Configuration.exe
+D:\Course\5 Task\Configuration\bin\Debug\net6.0\Configuration.deps.json
+D:\Course\5 Task\Configuration\bin\Debug\net6.0\Configuration.runtimeconfig.json
+D:\Course\5 Task\Configuration\bin\Debug\net6.0\Configuration.dll
+D:\Course\5 Task\Configuration\bin\Debug\net6.0\Configuration.pdb
+D:\Course\5 Task\Configuration\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Course\5 Task\Configuration\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Course\5 Task\Configuration\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Course\5 Task\Configuration\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Course\5 Task\Configuration\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Course\5 Task\Configuration\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Course\5 Task\Configuration\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Course\5 Task\Configuration\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Course\5 Task\Configuration\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Course\5 Task\Configuration\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Course\5 Task\Configuration\bin\Debug\net6.0\ConfigurationManagerConfigurationProvider.dll
+D:\Course\5 Task\Configuration\bin\Debug\net6.0\ConfigurationProvider.dll
+D:\Course\5 Task\Configuration\bin\Debug\net6.0\FileConfigurationProvider.dll
+D:\Course\5 Task\Configuration\bin\Debug\net6.0\ConfigurationManagerConfigurationProvider.pdb
+D:\Course\5 Task\Configuration\bin\Debug\net6.0\FileConfigurationProvider.pdb
+D:\Course\5 Task\Configuration\bin\Debug\net6.0\ConfigurationProvider.pdb
+D:\Course\5 Task\Configuration\obj\Debug\net6.0\Configuration.csproj.AssemblyReference.cache
+D:\Course\5 Task\Configuration\obj\Debug\net6.0\Configuration.GeneratedMSBuildEditorConfig.editorconfig
+D:\Course\5 Task\Configuration\obj\Debug\net6.0\Configuration.AssemblyInfoInputs.cache
+D:\Course\5 Task\Configuration\obj\Debug\net6.0\Configuration.AssemblyInfo.cs
+D:\Course\5 Task\Configuration\obj\Debug\net6.0\Configuration.csproj.CoreCompileInputs.cache
+D:\Course\5 Task\Configuration\obj\Debug\net6.0\Configuration.csproj.CopyComplete
+D:\Course\5 Task\Configuration\obj\Debug\net6.0\Configuration.dll
+D:\Course\5 Task\Configuration\obj\Debug\net6.0\refint\Configuration.dll
+D:\Course\5 Task\Configuration\obj\Debug\net6.0\Configuration.pdb
+D:\Course\5 Task\Configuration\obj\Debug\net6.0\Configuration.genruntimeconfig.cache
+D:\Course\5 Task\Configuration\obj\Debug\net6.0\ref\Configuration.dll
